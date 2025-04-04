@@ -1,0 +1,14 @@
+# Local Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Sensitive variable files
+*.tfvars
+
+# Terraform plugin and module cache
+.terraform/
+
+# IDE and OS clutter
+.vscode/
+.idea/
+.DS_Store
