@@ -1,4 +1,4 @@
-# Terraform EC2 Instance
+# # Terraform EC2 WordPress Deployment
 
 This project uses Terraform to deploy a Bitnami WordPress EC2 instance in AWS. It follows a modular layout with provider version locking.
 
