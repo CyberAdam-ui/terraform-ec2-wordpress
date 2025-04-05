@@ -23,7 +23,7 @@ variable "security_group_id" {
   type        = string
 }
 
-variable "key_pair_name" {
+variable "key_name" {
   description = "Name of the AWS key pair to use for SSH access"
   type        = string
 }
